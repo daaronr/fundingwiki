@@ -25,7 +25,7 @@ database and post it to the Wiki in various formats, i.e. as tables, pages or fo
 wish to contribute.
 
 Currently only the database-to-wiki connection is implemented. That is, all the changes to the database-driven content
-need to be done inside the database and then pushed to the wiki. In the future we plan to implement a wiki-to-database
+need to be done inside the database and then pushed to the wiki. (However, the wiki also links several Airtable forms enabling contributions/suggestions). In the future we may implement a wiki-to-database
 connection that would allow content from the wiki to be pushed to the database.
 
 .. _Wiki: http://innovationsinfundraising.org/doku.php
